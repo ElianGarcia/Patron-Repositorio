@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronRepositorio", "PatronRepositorio.csproj", "{59755D0E-1011-440D-8B84-29051E2F1BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronRepositorioTests", "..\PatronRepositorioTests\PatronRepositorioTests.csproj", "{456DCD14-8D5A-429F-8CE0-383ECF928863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59755D0E-1011-440D-8B84-29051E2F1BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59755D0E-1011-440D-8B84-29051E2F1BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59755D0E-1011-440D-8B84-29051E2F1BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59755D0E-1011-440D-8B84-29051E2F1BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{456DCD14-8D5A-429F-8CE0-383ECF928863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{456DCD14-8D5A-429F-8CE0-383ECF928863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{456DCD14-8D5A-429F-8CE0-383ECF928863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{456DCD14-8D5A-429F-8CE0-383ECF928863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCBAD6B8-A5AA-4BE2-86D9-9E4B46B1AD50}
+	EndGlobalSection
+EndGlobal
